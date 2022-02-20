@@ -1,0 +1,23 @@
+#img-caption {
+    width: 400px;
+  }
+  #image-div {
+     
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+  }
+  #image {
+    height: auto;
+    display: block;
+    max-width: 100%;
+    margin: auto auto;
+    
+  }
+  
+  body {
+    margin-left: 7vw;
+    background-color: black;
+    color: white;
+    font-family: calibri;
+  }
